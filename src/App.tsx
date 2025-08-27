@@ -416,8 +416,8 @@ Apr,180,95`;
               </div>
             </div>
             <div className="text-right">
-              <p className="text-sm text-gray-600 font-medium">Powered by </p>
-              {/* <img src="/image.png" alt="Logo" className="w-20 h-20" /> */}
+              <p className="text-sm text-gray-600 font-medium"> by  Ruthika</p>
+              
             </div>
           </div>
         </div>
